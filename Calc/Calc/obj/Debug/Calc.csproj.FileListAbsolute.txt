@@ -1,0 +1,14 @@
+R:\Programming\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Kurtis\Desktop\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Kurtis\Desktop\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Kurtis\Desktop\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.frm_Calc.resources
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\Kurtis\Desktop\Calc\Calc\bin\Debug\Calc.exe.manifest
+C:\Users\Kurtis\Desktop\Calc\Calc\bin\Debug\Calc.application
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.exe.manifest
+C:\Users\Kurtis\Desktop\Calc\Calc\obj\Debug\Calc.application
